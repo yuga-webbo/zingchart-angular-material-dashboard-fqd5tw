@@ -1,0 +1,14 @@
+/* Add application styles & imports to this file! */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+html, body {
+  height: 100%;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  background: #cfd8dc;
+}
+
+zg-head, zg-head-cell {
+  background: white;
+  font-size: 12px;
+  color: rgba(0,0,0,.54);
+}
